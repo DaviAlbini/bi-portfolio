@@ -7,11 +7,11 @@ Os dashboards foram construídos seguindo boas práticas de **modelagem (star sc
 
 ## Sobre os Projetos
 Cada projeto neste portfólio foi desenvolvido para resolver problemas reais de análise e gestão.  
-Os temas variam entre setores como **governo, financeiro e social, recursos humanos, automotivo**, com diferentes desafios técnicos:  
+Os temas variam entre setores como **governo, investimentos, financeiro e social, recursos humanos, automotivo**, com diferentes desafios técnicos:  
 - Criação de medidas DAX avançadas para indicadores de performance.  
 - Integração e tratamento de dados com SQL e ETL.  
 - Aplicação de storytelling com dados e boas práticas de UX em dashboards.  
-- Uso de **análise de investimentos públicos, vendas, People Analytics, etc** para demonstrar aplicabilidade em cenários corporativos.  
+- Uso de **análise de investimentos públicos, Stock Market, Vendas, People Analytics, etc** para demonstrar aplicabilidade em cenários corporativos.  
 
 <img width="1000" height="666" alt="MacBook Mockup, Floating" src="https://github.com/user-attachments/assets/336eb43c-440f-41cc-bb0e-d88dc9944678" />
 
@@ -21,11 +21,11 @@ Os temas variam entre setores como **governo, financeiro e social, recursos huma
 
 ### [Ministério das Cidades – Investimentos](./mcid-investimentos)
 Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em execução físico-financeira de projetos, riscos e gargalos.  
-**Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos
+**Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Gov.br)
 
-### [Vendas de Carros](./vendas-carros)
-Dashboard para análise de performance de vendas de lojas de carros, explorando lucros, preços médios, quilometragem e padrões de consumo.  
-**Tecnologias:** Power BI, DAX, ETL, SQL  
+### [Stock Market](./stock-market)
+Dashboard para análise de performance e risco de índices globais e commodities.  
+**Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Yahoo Finance)
 
 ### [Recursos Humanos](./recursos-humanos)
 Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demografia e distribuição salarial.  
