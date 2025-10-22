@@ -24,7 +24,7 @@ Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em exec
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Gov.br)
 
 ### [Stock Market](./stock-market)
-Dashboard para análise de performance e risco de índices globais e commodities.  
+Dashboard para análise de performance e volatilidade de índices globais e commodities.  
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Yahoo Finance)
 
 ### [Recursos Humanos](./recursos-humanos)
