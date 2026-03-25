@@ -16,7 +16,7 @@ Os temas variam entre setores como **governo, investimentos, financeiro e social
 ## Projetos em Destaque
 
 ### [Análise Financeira - DRE (B3)](./dre-b3) 🆕🔥
-Gestão de KPI's críticos para finanças corporativas como EBITDA, Lucro Líquido, Margem Bruta, Impostos, dentre outros indicadores para gestão de performance de empresas listadas na B3.
+Gestão de **KPI's críticos** para finanças corporativas como EBITDA, Lucro Líquido, Margem Bruta, Impostos, dentre outros indicadores para gestão de performance de empresas listadas na B3.
 
 **Tecnologias:** Power BI, DAX, ETL, SQL, SQLServer, HTML, CSS, dados públicos (B3)  
 
@@ -26,12 +26,12 @@ Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em exec
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Gov.br)
 
 ### [Stock Market](./stock-market)
-Dashboard para análise de performance e volatilidade de índices globais e commodities.  
+Dashboard para análise de **performance** e volatilidade de índices globais e commodities.  
 
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Yahoo Finance)
 
 ### [Recursos Humanos](./recursos-humanos)
-Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demografia e distribuição salarial.  
+Gestão de **indicadores de RH**, como desempenho, satisfação, absenteísmo, demografia e distribuição salarial.  
 
 **Tecnologias:** Power BI, DAX, ETL, SQL  
 
@@ -40,10 +40,10 @@ Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demog
 - DAX (cálculo e KPIs avançados)  
 - SQL/ETL (tratamento e integração de dados)
 - APIs
+- Python
 - Data Warehouse
 - Data Modelling
 - HTML/CSS (DataViz)
-- Python
 
 ## Contato
 - [LinkedIn – Davi Albini](https://www.linkedin.com/in/davialbini/)  
