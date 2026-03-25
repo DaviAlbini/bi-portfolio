@@ -3,8 +3,6 @@
 Bem-vindo ao meu portfólio. Aqui apresento projetos desenvolvidos em **Power BI, SQL e DAX**, com foco em **análise de dados, modelagem, storytelling visual e geração de insights para tomada de decisão**.  
 Os dashboards foram construídos seguindo boas práticas de **modelagem (star schema)**, **otimização de performance** e **design orientado ao usuário**.
 
----
-
 ## Sobre os Projetos
 Cada projeto neste portfólio foi desenvolvido para resolver problemas reais de análise e gestão.  
 Os temas variam entre setores como **governo, investimentos, financeiro e social, recursos humanos, automotivo**, com diferentes desafios técnicos:  
