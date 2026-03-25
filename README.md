@@ -11,7 +11,7 @@ Os temas variam entre setores como **governo, investimentos, financeiro e social
 - Criação de medidas DAX avançadas para indicadores de performance.  
 - Integração e tratamento de dados com SQL e ETL.  
 - Aplicação de storytelling com dados e boas práticas de UX em dashboards.  
-- Uso de **análise de investimentos públicos, Stock Market, Vendas, People Analytics, etc** para demonstrar aplicabilidade em cenários corporativos.  
+- Uso de **análise de finanças corporativas, investimentos públicos, Stock Market, Vendas, People Analytics, etc** para demonstrar aplicabilidade em cenários corporativos.  
 
 <img width="1000" height="666" alt="MacBook Mockup, Floating" src="https://github.com/user-attachments/assets/336eb43c-440f-41cc-bb0e-d88dc9944678" />
 
@@ -19,17 +19,29 @@ Os temas variam entre setores como **governo, investimentos, financeiro e social
 
 ## Projetos em Destaque
 
+### [Análise Financeira - DRE (B3)](./dre-b3) 🔥
+Gestão de KPI's críticos para finanças corporativas como EBITDA, Lucro Líquido, Margem Bruta, Impostos, dentre outros indicadores para gestão de performance de empresas listadas na B3.
+
+**Tecnologias:** Power BI, DAX, ETL, SQL, SQLServer, HTML, CSS, dados públicos (B3)  
+
 ### [Ministério das Cidades – Investimentos](./mcid-investimentos)
 Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em execução físico-financeira de projetos, riscos e gargalos.  
+
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Gov.br)
 
 ### [Stock Market](./stock-market)
 Dashboard para análise de performance e volatilidade de índices globais e commodities.  
+
 **Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Yahoo Finance)
 
 ### [Recursos Humanos](./recursos-humanos)
 Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demografia e distribuição salarial.  
+
 **Tecnologias:** Power BI, DAX, ETL, SQL  
+
+---
+
+
 
 ---
 
@@ -37,7 +49,11 @@ Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demog
 - Power BI (modelagem e visualização)  
 - DAX (cálculo e KPIs avançados)  
 - SQL/ETL (tratamento e integração de dados)
-- APIs 
+- APIs
+- Data Warehouse
+- Data Modelling
+- HTML/CSS (DataViz)
+- Python
 
 ---
 
