@@ -21,13 +21,13 @@ A proposta vai além da análise contábil tradicional, buscando responder pergu
 O projeto demonstra como estruturar uma solução de analytics capaz de transformar dados financeiros complexos em insights acionáveis, reduzindo o tempo entre análise e decisão.
 
 ## Escopo e Desafios
-- Extração automatizada de dados financeiros da CVM (DFP) via Python, garantindo atualização e rastreabilidade.  
-- Tratamento de múltiplas versões de demonstrativos contábeis, selecionando sempre a última versão válida por exercício.  
+- **Extração automatizada** de dados financeiros da CVM (DFP) via Python, garantindo atualização e rastreabilidade.  
+- **Tratamento** de múltiplas versões de demonstrativos contábeis, selecionando sempre a última versão válida por exercício.  
 - Reconstrução da estrutura hierárquica da DRE a partir de códigos contábeis brutos.  
-- Modelagem de dados orientada à análise financeira, suportando navegação por níveis e análise temporal.  
-- Criação de métricas financeiras complexas (EBIT, margens, análises vertical e horizontal).  
-- Tratamento de inconsistências e padronização de dados contábeis.  
-- Desenvolvimento de um dashboard com foco em storytelling analítico e suporte à decisão.  
+- **Modelagem de dados** orientada à análise financeira, suportando **navegação por níveis** e **análise temporal**.  
+- Criação de **métricas financeiras complexas** (EBIT, margens, análises vertical e horizontal).  
+- Tratamento de inconsistências e **padronização de dados** contábeis.  
+- Desenvolvimento de um dashboard com foco em **storytelling analítico e suporte à decisão**.  
 
 ## Metodologia e Técnicas Utilizadas
 - **ETL automatizado em Python** para coleta, filtragem e preparação dos dados da CVM.  
