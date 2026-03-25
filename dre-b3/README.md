@@ -54,8 +54,6 @@ O projeto demonstra como estruturar uma solução de analytics capaz de transfor
 - SQL  
 - Dados públicos da CVM  
 
----
-
 ## Contato
 - [LinkedIn – Davi Albini](https://www.linkedin.com/in/davialbini/)  
 - davialbini@gmail.com  
