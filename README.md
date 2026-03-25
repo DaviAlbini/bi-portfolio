@@ -13,11 +13,9 @@ Os temas variam entre setores como **governo, investimentos, financeiro e social
 
 <img width="1000" height="666" alt="MacBook Mockup, Floating" src="https://github.com/user-attachments/assets/336eb43c-440f-41cc-bb0e-d88dc9944678" />
 
----
-
 ## Projetos em Destaque
 
-### [Análise Financeira - DRE (B3)](./dre-b3) 🔥
+### [Análise Financeira - DRE (B3)](./dre-b3) 🆕🔥
 Gestão de KPI's críticos para finanças corporativas como EBITDA, Lucro Líquido, Margem Bruta, Impostos, dentre outros indicadores para gestão de performance de empresas listadas na B3.
 
 **Tecnologias:** Power BI, DAX, ETL, SQL, SQLServer, HTML, CSS, dados públicos (B3)  
@@ -37,12 +35,6 @@ Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demog
 
 **Tecnologias:** Power BI, DAX, ETL, SQL  
 
----
-
-
-
----
-
 ## Tecnologias e Ferramentas
 - Power BI (modelagem e visualização)  
 - DAX (cálculo e KPIs avançados)  
@@ -52,8 +44,6 @@ Gestão de indicadores de RH, como desempenho, satisfação, absenteísmo, demog
 - Data Modelling
 - HTML/CSS (DataViz)
 - Python
-
----
 
 ## Contato
 - [LinkedIn – Davi Albini](https://www.linkedin.com/in/davialbini/)  
