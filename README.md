@@ -1,50 +1,69 @@
-# Portfólio de Projetos em Business Intelligence e Data Analytics
+# Business Intelligence & Data Analytics Portfolio
 
-Bem-vindo ao meu portfólio. Aqui apresento projetos desenvolvidos em **Power BI, SQL e DAX**, com foco em **análise de dados, modelagem, storytelling visual e geração de insights para tomada de decisão**.  
-Os dashboards foram construídos seguindo boas práticas de **modelagem (star schema)**, **otimização de performance** e **design orientado ao usuário**.
+A collection of end-to-end BI projects built with **Power BI, SQL, DAX, and Python**, focused on **data modeling, advanced KPIs, and decision-ready dashboards** across finance, public sector, HR, and market analytics.
 
-## Sobre os Projetos
-Cada projeto neste portfólio foi desenvolvido para resolver problemas reais de análise e gestão.  
-Os temas variam entre setores como **governo, investimentos, financeiro e social, recursos humanos, automotivo**, com diferentes desafios técnicos:  
-- Criação de medidas DAX avançadas para indicadores de performance.  
-- Integração e tratamento de dados com SQL e ETL.  
-- Aplicação de storytelling com dados e boas práticas de UX em dashboards.  
-- Uso de **análise de finanças corporativas, investimentos públicos, Stock Market, Vendas, People Analytics, etc** para demonstrar aplicabilidade em cenários corporativos.  
+Each project follows production-grade practices: **star schema modeling**, **optimized DAX measures**, **ETL pipelines**, and **user-centered dashboard design**.
 
 <img width="1000" height="666" alt="MacBook Mockup, Floating" src="https://github.com/user-attachments/assets/336eb43c-440f-41cc-bb0e-d88dc9944678" />
 
-## Projetos em Destaque
 
-### [Análise Financeira - DRE (B3)](./dre-b3) 🆕🔥
-Gestão de **KPI's críticos** para finanças corporativas como EBITDA, Lucro Líquido, Margem Bruta, Impostos, dentre outros indicadores para gestão de performance de empresas listadas na B3.
+## Featured Projects
 
-**Tecnologias:** Power BI, DAX, ETL, SQL, SQLServer, HTML, CSS, dados públicos (B3)  
+### [Corporate Financial Analysis — Income Statement (B3)](./dre-b3) 🔥
 
-### [Ministério das Cidades – Investimentos](./mcid-investimentos)
-Análise de quase **R$ 1 trilhão em investimentos públicos**, com foco em execução físico-financeira de projetos, riscos e gargalos.  
+End-to-end financial performance dashboard for publicly traded Brazilian companies. Tracks critical corporate KPIs including **EBITDA, Net Income, Gross Margin, and Tax Burden**, enabling executive-level decision-making from public market data.
 
-**Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Gov.br)
+**Stack:** Power BI · DAX · SQL · SQL Server · ETL · HTML/CSS · Public Data (B3)
 
-### [Stock Market](./stock-market)
-Dashboard para análise de **performance** e volatilidade de índices globais e commodities.  
+---
 
-**Tecnologias:** Power BI, DAX, ETL, SQL, dados públicos (Yahoo Finance)
+### [Ministry of Cities — Public Investment Dashboard](./mcid-investimentos)
 
-### [Recursos Humanos](./recursos-humanos)
-Gestão de **indicadores de RH**, como desempenho, satisfação, absenteísmo, demografia e distribuição salarial.  
+Analysis of nearly **R$ 1 trillion (~$200B USD) in Brazilian federal public investments**, tracking physical and financial execution progress, identifying bottlenecks, and surfacing risk indicators across thousands of government projects.
 
-**Tecnologias:** Power BI, DAX, ETL, SQL  
+**Stack:** Power BI · DAX · SQL · ETL · Public Data (Gov.br)
 
-## Tecnologias e Ferramentas
-- Power BI (modelagem e visualização)  
-- DAX (cálculo e KPIs avançados)  
-- SQL/ETL (tratamento e integração de dados)
-- APIs
-- Python
-- Data Warehouse
-- Data Modelling
-- HTML/CSS (DataViz)
+---
 
-## Contato
-- [LinkedIn – Davi Albini](https://www.linkedin.com/in/davialbini/)  
-- davialbini@gmail.com
+### [Stock Market Performance Dashboard](./stock-market)
+
+Multi-asset dashboard for monitoring **volatility and performance** of global equity indices and commodities, with dynamic benchmarking and time-series drill-down.
+
+**Stack:** Power BI · DAX · SQL · ETL · Public Data (Yahoo Finance)
+
+---
+
+### [HR Analytics Dashboard](./recursos-humanos)
+
+People analytics solution covering **performance, satisfaction, absenteeism, headcount distribution, and compensation analysis** — designed for HR teams managing workforce strategy.
+
+**Stack:** Power BI · DAX · SQL · ETL
+
+---
+
+### [Automotive Sales Analysis](./vendas-carros)
+
+Sales performance and market share analysis for the automotive sector, with regional breakdowns and trend tracking.
+
+**Stack:** Power BI · DAX · SQL · ETL
+
+---
+
+## Core Competencies Demonstrated
+
+| Area | Details |
+|---|---|
+| Data Modeling | Star schema, dimensional modeling, relationships |
+| DAX | Time intelligence, iterators, calculated measures, KPIs |
+| ETL & Data Prep | SQL Server, Power Query, Python pipelines |
+| Visualization | UX-driven dashboard design, storytelling, HTML/CSS custom visuals |
+| Data Sources | Public APIs, relational databases, flat files |
+
+---
+
+## About
+
+I'm a Senior Data Analyst with 4+ years of experience leading BI and Data Operations in enterprise environments. This portfolio reflects real-world analytical challenges across diverse industries and data scales.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/davialbini/)
+- 📧 davialb23@gmail.com
